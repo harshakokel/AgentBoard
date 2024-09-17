@@ -332,7 +332,7 @@ predicate_map = {
     "at-robby": "Robby is at {}. ",
     "at": "{} is at {}. ",
     "free": "{} is free. ",
-    "carry": "{} is carrying {}. ",
+    "carry": "{} is carried by {}. ",
     "move": "Move from {} to {}. ",
     "pick": "Pick up {} at {} with arm {}. ",
     # Add more predicate formats here  
